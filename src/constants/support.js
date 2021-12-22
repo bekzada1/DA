@@ -1,0 +1,1 @@
+export const UPDATE_SUPPORT = "UPDATE_SUPPORT";

@@ -1,0 +1,2 @@
+export const UPDATE_REVIEW = 'UPDATE_REVIEW'
+export const INITIAL_REVIEW = 'INITIAL_REVIEW'

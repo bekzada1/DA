@@ -1,0 +1,1 @@
+export const UPDATE_LOADER = 'UPDATE_LOADER'
